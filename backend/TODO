@@ -1,0 +1,31 @@
+First create the table for admin_access_tokens
+then create these endpoints
+
+
+ENDPOINTS
+-- Cases
+1. get all cases (with/without filter)
+3. get all case details by id
+
+-- Persons
+1. get all persons (with/without filter)
+
+-- Admin Panel
+1. admin add new case
+2. admin edit case by id
+3. admin delete case by id
+
+-- Analytics
+1. get trending cases
+2. get cases by location
+3. get cases by type
+
+
+
+
+
+
+
+1. admin edit 
+2. case page victims and witnessess
+3. add people
